@@ -231,8 +231,8 @@
 	<string name="Lbl_country231">Шея</string>
 	<string name="Lbl_country232">Ымыяхтах</string>
 	<string name="Lbl_country233">Ынахсыт</string>
-  <string name="Lbl_country234">Ытык-Кюёль</string>
-	<string name="Lbl_country234">Эбях</string>
+        <string name="Lbl_country234">Ытык-Кюёль</string>
+	<string name="Lbl_country235">Эбях</string>
 	<string name="Lbl_country236">Эльгяй</string>
 	<string name="Lbl_country237">Эльдикан</string>
 	<string name="Lbl_country238">Эмиссы</string>
