@@ -1,4 +1,4 @@
-  <string name="Lbl_country1">Якутск</string>
+        <string name="Lbl_country1">Якутск</string>
 	<string name="Lbl_country2">Абага</string>
 	<string name="Lbl_country3">Абага Центральная</string>
 	<string name="Lbl_country4">Айхал</string>
@@ -30,7 +30,7 @@
 	<string name="Lbl_country30">Беченча</string>
 	<string name="Lbl_country31">Болугур</string>
 	<string name="Lbl_country32">Боробул</string>
-    <string name="Lbl_country33">Борогонцы</string>
+        <string name="Lbl_country33">Борогонцы</string>
 	<string name="Lbl_country34">Булгунняхтах</string>
 	<string name="Lbl_country35">Булун</string>
 	<string name="Lbl_country36">Булус</string>
